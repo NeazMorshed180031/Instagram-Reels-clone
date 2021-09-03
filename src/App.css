@@ -21,9 +21,9 @@ html {
   position: relative;
   height: 65vh;
   background-color: white;
-  width: 80%;
+  width: 100%;
   border-radius: 20px;
-  max-width: 400px;
+  max-width: 450px;
   max-height: 1200px;
   overflow: scroll;
   scroll-snap-type: y mandatory;
